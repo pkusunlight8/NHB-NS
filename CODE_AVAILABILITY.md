@@ -1,0 +1,3 @@
+# Code availability wording for the Article
+
+The custom code for the observed-window multistate likelihood, restricted health-expectancy calculation, transition-channel decomposition, municipality-held-out prediction, and service-preserving and care-need-matched city comparisons is available in the versioned repository cited in the Article. The repository includes aggregate inputs and fitted parameter matrices sufficient to reproduce the principal reported numerical results. Participant-level refitting requires the CHARLS records and linked inputs described in the Data availability statement. Official IMaCh software is available from its original provider.
