@@ -1,7 +1,8 @@
-numpy==2.4.4
-pandas==2.3.3
-scipy==1.17.1
-scikit-learn==1.8.0
-xgboost==3.3.0
-shap==0.52.0
-numba==0.65.1
+# Tested runtime dependencies for Python 3.12
+numpy==2.5.5
+scipy==1.18.1
+pandas==3.1.1
+numba==0.68.1
+llvmlite==0.50.0
+python-dateutil==4.0.0
+tzdata==2026.6
